@@ -1,6 +1,6 @@
 # 📊 Sentiment Analysis on Customer Reviews
 
-This repository contains **Course Design Project - 4 (CD4)**, a Machine Learning project that performs **Sentiment Analysis** on customer reviews using Natural Language Processing (NLP) techniques. The project classifies customer reviews into different sentiment categories and generates valuable business insights.
+This repository contains **Codtech - 4 (CD4)**, a Machine Learning project that performs **Sentiment Analysis** on customer reviews using Natural Language Processing (NLP) techniques. The project classifies customer reviews into different sentiment categories and generates valuable business insights.
 
 ---
 
